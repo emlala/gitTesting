@@ -5,7 +5,7 @@ class Person {
   }
   hello() {
     console.log(
-      `Hello World, my name it ${this.name}, I'm ${this.age} years old.`
+      `Hello World, my name it ${this.name}, I'm ${this.age} years old. :)`
     );
   }
 }
